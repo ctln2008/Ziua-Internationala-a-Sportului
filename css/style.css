@@ -1,0 +1,42 @@
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2021/02/04/15/35/track-and-field-5981702_1280.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 200vh;
+    margin: 0;
+}
+header {
+    background-color: azure;
+    margin-inline: 500px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    opacity: 80%;
+}
+h1 {
+    text-align: center;
+    color: brown;
+}
+a {
+    color:rgb(42, 90, 179);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+div {
+    background-color:azure;
+    margin-inline: 30px;
+    border-radius: 8px;
+    opacity: 80%;
+    padding: 30px;
+    height: 480px;
+}
+video {
+    width: 480px;
+    height: 280px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    object-fit: contain;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}

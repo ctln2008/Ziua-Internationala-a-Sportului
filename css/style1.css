@@ -1,0 +1,33 @@
+body {
+    background-image: url(https://images.ctfassets.net/hrltx12pl8hq/4nZGP4kzysYUiN0QFfEdOU/0bf60d1b18a474ef98c2a9fc53517e2e/2_basketball.webp);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 200vh;
+    margin: 0;
+}
+header {
+    background-color: azure;
+    margin-inline: 500px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    opacity: 80%;
+}
+h1 {
+    text-align: center;
+    color: black;
+}
+a {
+    color:rgb(42, 90, 179);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+div {
+    background-color:azure;
+    margin-inline: 30px;
+    border-radius: 8px;
+    opacity: 80%;
+    padding: 30px;
+    height: 300px;
+}

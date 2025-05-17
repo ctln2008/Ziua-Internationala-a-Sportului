@@ -1,0 +1,44 @@
+body {
+    background-image: url(https://images.ctfassets.net/hrltx12pl8hq/6v8nesiKEPqIyY6wrufuk3/418ed0ab7bbb5e1c34a66526a891208b/9_sports_equipment.webp);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 200vh;
+    margin: 0;
+}
+header {
+    background-color: azure;
+    margin-inline: 500px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    opacity: 80%;
+}
+h1 {
+    text-align: center;
+    color:cadetblue;
+}
+a {
+    color:rgb(42, 90, 179);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+div {
+    background-color:azure;
+    margin-inline: 30px;
+    border-radius: 8px;
+    opacity: 80%;
+    padding: 30px;
+    height: 520px;
+}
+table, th, td {
+    border: 1px solid;
+    color:black;
+} 
+iframe {
+    width: 400px;
+    height: 340px;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
